@@ -20,7 +20,7 @@ export function AboutSection({ onBookClick }: AboutSectionProps) {
             {!portraitFailed ? (
               <img
                 src={IMAGES.leadDentistPortrait}
-                alt="Dr. Aisha Khan, Senior Dental Surgeon at Smile Squad Dental Clinic"
+                alt="Dr. Mustabshira, Senior Dental Surgeon at Smile Squad Dental Clinic"
                 referrerPolicy="no-referrer"
                 onError={() => setPortraitFailed(true)}
                 className="aspect-square w-full rounded-2xl object-cover object-top"
@@ -28,7 +28,7 @@ export function AboutSection({ onBookClick }: AboutSectionProps) {
             ) : (
               <div className="flex aspect-square w-full items-center justify-center rounded-2xl bg-[#F3F4FC] text-center">
                 <span className="font-display text-lg font-bold text-[#22195C]">
-                  Dr. Aisha Khan · BDS, DDS
+                  Dr. Mustabshira · BDS, DDS
                 </span>
               </div>
             )}
@@ -40,7 +40,7 @@ export function AboutSection({ onBookClick }: AboutSectionProps) {
               className="group absolute right-5 bottom-5 left-5 flex cursor-pointer items-center justify-between gap-4 rounded-2xl bg-[#43349C] px-5 py-4 text-left shadow-[0_12px_28px_rgba(34,25,92,0.22)] transition-colors hover:bg-[#362886] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#70F3A8]"
             >
               <div>
-                <p className="font-display text-lg font-bold text-white">Dr. Aisha Khan</p>
+                <p className="font-display text-lg font-bold text-white">Dr. Mustabshira</p>
                 <p className="text-sm font-medium text-[#E4E2F5]">
                   Senior Dental Surgeon · BDS, DDS
                 </p>

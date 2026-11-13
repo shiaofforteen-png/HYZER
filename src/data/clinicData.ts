@@ -150,7 +150,7 @@ export const TESTIMONIALS: Testimonial[] = [
     neighborhood: 'E-11, Islamabad',
     treatment: 'Root Canal & Zirconia Crown',
     quote:
-      'Booked an urgent slot for a molar ache and walked out pain-free the same evening. Dr. Aisha explained my digital X-ray clearly before starting and there were no surprise charges.',
+      'Booked an urgent slot for a molar ache and walked out pain-free the same evening. Dr. Mustabshira explained my digital X-ray clearly before starting and there were no surprise charges.',
   },
   {
     id: 'rev-3',
