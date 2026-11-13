@@ -1,0 +1,8 @@
+{
+  "name": "Smile Squad Dental Clinic",
+  "description": "Modern family, cosmetic, and restorative dental care at Lord Trade Centre, F-11 Markaz, Islamabad. Book appointments online or call 0332-8128989.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
